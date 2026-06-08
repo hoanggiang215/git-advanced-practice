@@ -5,3 +5,12 @@
 ## Hướng dẫn chạy dự án
 - Bước 1: Clone repo về máy.
 - Bước 2: Mở file `main.js` bằng trình duyệt hoặc chạy bằng NodeJS.
+
+## Tác gi?
+- Th?c hi?n b?i: hoanggiang215
+
+## Tác gi?
+- Th?c hi?n b?i: hoanggiang215
+
+## Tác giả
+- Thực hiện bởi: hoanggiang215
